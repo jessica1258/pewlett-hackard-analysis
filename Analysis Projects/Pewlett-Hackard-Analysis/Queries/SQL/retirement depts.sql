@@ -5,7 +5,7 @@ INTO retirement_depts
 FROM employees
 left join dep_emp on dep_emp.emp_no = employees.emp_no
 left join departments ON departments.dept_no = dep_emp.dept_no
-WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31') and dep_emp.to_date = '9999-01-01'
 group by dept_name
 order by ret_employee_count desc;
 
