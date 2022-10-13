@@ -6,10 +6,10 @@ The purpose of this project is two fold. First, we want to understand the Pewlet
 
 # Key Results
 ## Key Insights from Analysis
-*Based birthdays from 1952 through 1955, 72,458 current unique employees are eligible to retire.  
-*The majority of retirements will come from Senior Engineers and Senior Staff, which will make up 36% and 34%, respectively, of retirements.
-*Based on birthdays in 1965, 1,549 current employees are eligible for the mentorship program.
-*The majoriy of mentees will come from the ranks of Senior Staff and Engineers.
+* Based birthdays from 1952 through 1955, 72,458 current unique employees are eligible to retire.  
+* The majority of retirements will come from Senior Engineers and Senior Staff, which will make up 36% and 34%, respectively, of retirements.
+* Based on birthdays in 1965, 1,549 current employees are eligible for the mentorship program.
+* The majoriy of mentees will come from the ranks of Senior Staff and Engineers.
 
 Note that the figures below show the break down of retirements and mentees by title.
 
