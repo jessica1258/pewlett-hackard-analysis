@@ -19,3 +19,8 @@ Note that the figures below show the break down of retirements and mentees by ti
 
 # Summary
 
+
+![Retirement Dept Summary](https://github.com/jessica1258/pewlett-hackard-analysis/blob/main/Analysis%20Projects/Pewlett-Hackard-Analysis/Data/Figure%203.png)
+
+
+![Mentee Dept Summary](https://github.com/jessica1258/pewlett-hackard-analysis/blob/main/Analysis%20Projects/Pewlett-Hackard-Analysis/Data/Figure%203.png)
