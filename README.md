@@ -17,5 +17,5 @@ Note that the figures below show the break down of retirements and mentees by ti
 
 ![Mentorship Summary](https://github.com/jessica1258/pewlett-hackard-analysis/blob/main/Analysis%20Projects/Pewlett-Hackard-Analysis/Data/Figure%202.png)
 
-# Recommendations
-...
+# Summary
+
