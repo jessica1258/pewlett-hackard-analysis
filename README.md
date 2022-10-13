@@ -18,10 +18,12 @@ Note that the figures below show the break down of retirements and mentees by ti
 ![Mentorship Summary](https://github.com/jessica1258/pewlett-hackard-analysis/blob/main/Analysis%20Projects/Pewlett-Hackard-Analysis/Data/Figure%202.png)
 
 # Summary
+## Silver Tsunami
 Without any other changes to organzation, workload or work activities, Pewlett Hackard will need to replace 72,458 employees who are expected to retire. The departments with the greatest impact as measureed by the total retirement count are Development, Production and Sales. More detailed results are shown in the table below.
 
 ![Retirement Dept Summary](https://github.com/jessica1258/pewlett-hackard-analysis/blob/main/Analysis%20Projects/Pewlett-Hackard-Analysis/Data/Figure%204.png)
 
+## Adequate Mentors
 The ratio of retirements to mentees is nearly 47:1. While this does vary by department, that ratio is not lower than 40:1 for any individual department. This means, after evaluating other qualifications for good mentors, there should be sufficient employees near retirement to support the Mentorship Program.  The mentee count by department is shown below.
 
 ![Mentee Dept Summary](https://github.com/jessica1258/pewlett-hackard-analysis/blob/main/Analysis%20Projects/Pewlett-Hackard-Analysis/Data/Figure%203.png)
